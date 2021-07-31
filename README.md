@@ -1,12 +1,19 @@
+### Hey there.
 
-# Welcome to 
-[![Hi there 👋](https://i.imgur.com/xuXD8R2.png)](https://github.com/Ricozyx/#)
-<hr>
-
-### Some info
-Mostly interested in software development & cybersecurity.
+My name is [Rico](https://ricovz.com).
 
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G04W0H7)
+I have an interest in software development, cybersec & infosec.
 
-<hr>
+
+Projects that I've worked on:
+- [TenshiBot](https://github.com/ricozyx/Discord-TenshiBot)
+- [LoL Account Manager v2](https://github.com/ricozyx/LoL-Account-Manager)
+- Private projects
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricozyx&layout=compact)](https://github.com/ricozyx?tab=repositories)
+
+Feel free to contact me:
+<br>
+
+[<img src="https://img.shields.io/badge/Email-contact%40ricovz.com-orange">](mailto:contact@ricovz.com)
