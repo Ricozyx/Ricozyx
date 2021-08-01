@@ -14,7 +14,7 @@ Projects that I've worked on:
 - [LoL Account Manager v2](https://github.com/ricozyx/LoL-Account-Manager)
 - Private projects
 
-[![Top Langs](https://github-readmedd-stat-570jyprbj-readme-rico.vercel.app/api/top-langs/?username=ricozyx&exclude_repo=PRIV-TENSHIBOT&layout=compact)](https://github.com/ricozyx?tab=repositories)
+[![Top Langs](https://github-readme-stat-570jyprbj-readme-rico.vercel.app/api/top-langs/?username=ricozyx&exclude_repo=PRIV-TENSHIBOT&layout=compact)](https://github.com/ricozyx?tab=repositories)
 
 Feel free to contact me:
 <br>
