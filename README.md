@@ -1,7 +1,5 @@
 ### Hey there.
 
-[![Git Metrics](https://metrics.lecoq.io/ricozyx?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Europe%2FAmsterdam)](https://github.com/ricozyx?tab=repositories)
-
 
 My name is [Rico](https://ricovz.com).
 
